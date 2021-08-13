@@ -1,3 +1,1 @@
-# testapp
-checking
-this is a test nothing more
+this is a scaffold of a react native setup
